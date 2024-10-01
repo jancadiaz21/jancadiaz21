@@ -1,1 +1,7 @@
 alert("hola mundo");
+
+// esto es un comentario
+
+alert("hola mundo_editado");
+
+Console.log("cambios en el archivo"); 
